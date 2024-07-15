@@ -16,3 +16,12 @@ This is a React-Redux project created with Create React App. The project is set 
 
 Before you begin, ensure you have Node.js and npm installed on your machine.
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shakilofficial/explore-redux.git
+   cd explore-redux
+   ```
+
+2. ```bash
+    npm install
+   ```
