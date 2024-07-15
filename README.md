@@ -22,6 +22,12 @@ Before you begin, ensure you have Node.js and npm installed on your machine.
    cd explore-redux
    ```
 
-2. ```bash
+2. Install dependencies
+```bash
     npm install
-   ```
+```
+
+3. Run the project
+```bash
+npm run dev
+```
