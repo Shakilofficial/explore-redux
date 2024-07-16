@@ -1,9 +1,33 @@
-# React + Vite
+# React Redux Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-Redux project created with Create React App. The project is set up with React, Redux, and Redux Thunk for state management and asynchronous operations. Tailwind CSS is used for styling.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# explore-redux
+- [Installation](#installation)
+- [Running the Development Server](#running-the-development-server)
+- [Building the Project](#building-the-project)
+- [Running Tests](#running-tests)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Before you begin, ensure you have Node.js and npm installed on your machine.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shakilofficial/explore-redux.git
+   cd explore-redux
+   ```
+
+2. Install dependencies
+```bash
+    npm install
+```
+
+3. Run the project
+```bash
+npm run dev
+```
